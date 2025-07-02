@@ -9,3 +9,11 @@ Each question is worth two points:
 
 * Data plotted as described by the question (1 pt)
 * Plot contains required elements (title, axis labels, axis titles, legend if required)
+
+### Activate Virtual Environment Before Installing Packages
+
+* create a local virtual environment in your repo (e.g. in the .venv folder) and activate it (this option offers more practice with environments), OR
+* create a virtual environment for the course somewhere on your machine and reuse that (this option saves space).
+* install packages (e.g. requests, spacy, spacytextblob)
+  
+#### python -m pip install matplotlib
