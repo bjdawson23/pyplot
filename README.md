@@ -17,3 +17,12 @@ Each question is worth two points:
 * install packages (e.g. requests, spacy, spacytextblob)
 
 #### python -m pip install matplotlib
+
+1. Task 1. Get Started - Copy the base repository
+2. Task 2. Open Notebook and Complete Tasks
+   1. Create a bar plot (or a horizontal bar plot) that shows the frequency distribution of characters in the string
+   2. Generate a sequence of at least 5 random numbers (integers are fine), and visualize the data using both `scatter` and `plot` on different axes
+   3. Change the syle and color of both the scatter and the plot from question 2
+   4. Given the data sets, plot or scatter both on the same set of axes
+3. Task 3. Export to HTML and Finalize Repo
+
