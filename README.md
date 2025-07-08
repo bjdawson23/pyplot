@@ -25,5 +25,5 @@ Each question is worth two points:
    3. Change the syle and color of both the scatter and the plot from question 2
    4. Given the data sets, plot or scatter both on the same set of axes
 3. Task 3. Export to HTML and Finalize Repo
-    import os
-    os.system('jupyter nbconvert --to html python-ds.ipynb')
+    --import os
+    --os.system('jupyter nbconvert --to html python-ds.ipynb')
