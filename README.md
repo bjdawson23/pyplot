@@ -5,7 +5,7 @@ To be submitted for credit, all changes must be committed and pushed to this rep
 
 ## Rubric
 
-Each question is worth two points: 
+Each question is worth two points:
 
 * Data plotted as described by the question (1 pt)
 * Plot contains required elements (title, axis labels, axis titles, legend if required)
